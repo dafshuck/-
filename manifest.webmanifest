@@ -1,0 +1,12 @@
+{
+  "name": "帕拉",
+  "short_name": "帕拉",
+  "description": "帕拉的独立聊天入口",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ededed",
+  "theme_color": "#f5f5f5",
+  "icons": [
+    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
